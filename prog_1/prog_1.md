@@ -4,9 +4,9 @@ The objective of this program is the analyze  mathematical expression and check
 if it has balanced number of parenthesis '()','{}','[]' or not.
 
 <b>Defining Data-Structures:</b></br>
-  #define size 20</br>  
-  char stack[size]; </br>  
-  int top = -1;</br>
+  #define size 20 
+  char stack[size];  
+  int top = -1;
   
 <b>Explanation:</b></br>
 •#define size 20 it initializes the size of the array</br>
