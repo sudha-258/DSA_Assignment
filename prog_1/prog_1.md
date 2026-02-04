@@ -1,4 +1,4 @@
-Checking balance number of parenthesis </br>
+<b>Checking balance number of parenthesis</b> </br>
 Objective:<b></b>
 The objective of this program is the analyze  mathematical expression and check
 if it has balanced number of parenthesis '()','{}','[]' or not.
