@@ -1,8 +1,9 @@
-Checking balance number of parenthesis
-Objective:
+Checking balance number of parenthesis </br>
+Objective:<b>
 The objective of this program is the analyze  mathematical expression and check
 if it has balanced number of parenthesis '()','{}','[]' or not.
-Defining Data-Structures:
+
+Defining Data-Structures:<b>
 #define size 20    
 char stack[size];   
 int top = -1;
