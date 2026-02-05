@@ -11,7 +11,7 @@ int top = -1; ```
 ```
 
 **Explanation:**
-
+```c
 *`#define size 20` it initializes the size of the array
 * `stack[size]` sets a character array of defined size
 * `top = -1` initializes the top of stack to be -1
