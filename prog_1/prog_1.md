@@ -7,18 +7,18 @@
 ```c
 #define size 20    
 char stack[size];   
-int top = -1; ```
+int top = -1; 
 ```
 
 **Explanation:**
-```c
-*`#define size 20` it initializes the size of the array
+
+* `#define size 20` it initializes the size of the array
 * `stack[size]` sets a character array of defined size
 * `top = -1` initializes the top of stack to be -1
-```c
+
 
 **Functions:**
-```c
+
 * `push(char x)`: push function is used to insert an item into the stack.
 * `pop()`: Pop function is used to remove an item from a stack.
 * `isMatching`: This function check if the opening parenthesis matches with the closing parenthesis.
