@@ -14,12 +14,14 @@
     struct Node* prev; 
 
 **Explanation:**
+```c
 *`struct Node`: Defines a node in a doubly linked list.
 *`int data`: Holds the actual data of the node.
 *`struct Node* next`: Points to the next node in the list.
 *`struct Node* prev`: Points to the previous node in the list.
 
    
+
 
 
 
