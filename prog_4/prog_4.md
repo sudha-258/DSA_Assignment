@@ -12,7 +12,7 @@
     int data;          
     struct Node* next;  
     struct Node* prev; 
-```
+
 **Explanation:**
 *`struct Node`: Defines a node in a doubly linked list.
 *`int data`: Holds the actual data of the node.
@@ -20,5 +20,6 @@
 *`struct Node* prev`: Points to the previous node in the list.
 
    
+
 
 
