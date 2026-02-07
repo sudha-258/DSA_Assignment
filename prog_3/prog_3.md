@@ -1,6 +1,6 @@
 # Implementation of reverse traversal algorithm in linked list
 ## Objective:
-    The objective of this program is to implement reverse traversal algorithm in linked list
+   <p> The objective of this program is to implement reverse traversal algorithm in linked list</p>
 ### Defining Data-Structures:
 ```c
 struct node{
